@@ -12,3 +12,8 @@ A Chinese student, working on iOS apps and ZeppOS apps
 
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python) ![](https://img.shields.io/badge/Code-C++-brightgreen?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript) ![](https://img.shields.io/badge/Code-Swift-orange?style=flat-square&logo=swift) 
 
+## ☕ But Me A Coffee
+
+![爱发电](https://afdian.net/a/XiaomaiTX)
+
+![Buy me a coffee]([https://afdian.net/a/XiaomaiTX](https://www.buymeacoffee.com/xiaomaitx))
