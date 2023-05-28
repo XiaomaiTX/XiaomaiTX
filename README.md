@@ -16,4 +16,4 @@ A Chinese student, working on iOS apps and ZeppOS apps
 
 [爱发电](https://afdian.net/a/XiaomaiTX)
 
-[Buy me a coffee]([https://afdian.net/a/XiaomaiTX](https://www.buymeacoffee.com/xiaomaitx))
+[Buy me a coffee](https://www.buymeacoffee.com/xiaomaitx)
