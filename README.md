@@ -2,7 +2,11 @@
 
 ## 👋 About Me 
 
-A Chinese student, working on iOS apps and ZeppOS apps
+17 y.o. / Student / @LightXi / Dev
+
+Contact Me: Me@XiaomaiTX.com
+
+Business Contact: XiaomaiTX@LightXi.com
 
 ## 😃 Tags
 
