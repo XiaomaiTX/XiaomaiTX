@@ -4,17 +4,13 @@
 
 ## 👋 About Me
 
-18 y.o. / Student / @LightXi / FullStack Developer / DevOps
+19 y.o. / Student / / FullStack Developer / DevOps
 
 ## 📫 Contact Me:
 
-- E-Mai(Recommend): <Me@XiaomaiTX.com>
-
-- Business Contact: <XiaomaiTX@LightXi.com>
+- E-Mai: <Me@XiaomaiTX.com>
 
 - Twitter/X: [XiaomaiTX](https://x.com/x1a0ma17x)
-
-- Telegram: @XiaomaiTX
 
 ## 😃
 
