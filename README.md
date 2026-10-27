@@ -10,8 +10,6 @@
 
 - E-Mai: <Me@XiaomaiTX.com>
 
-- Twitter/X: [XiaomaiTX](https://x.com/x1a0ma17x)
-
 ## 😃
 
 ![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows11)
